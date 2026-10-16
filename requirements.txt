@@ -1,0 +1,14 @@
+# Install PyTorch first, matching your CUDA version, e.g.:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+timm
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+opencv-python
+tqdm
+tabulate
+kaggle
+torchxrayvision
+streamlit

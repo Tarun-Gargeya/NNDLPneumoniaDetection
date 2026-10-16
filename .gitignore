@@ -1,0 +1,16 @@
+# environment
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+.env
+kaggle.json
+
+# data and model weights
+data/
+*.pth
+*.onnx
+results/*.log
+
+# presentation
+*.pdf
+*.pptx

@@ -1,0 +1,16 @@
+{
+  "all metadata": {
+    "test_auc": 0.926242696248624,
+    "matched_test_auc": 0.5688131313131312
+  },
+  "size only": {
+    "test_auc": 0.9218783587485425,
+    "matched_test_auc": 0.5362144168962351
+  },
+  "brightness only": {
+    "test_auc": 0.6955711745279025,
+    "matched_test_auc": 0.5514233241505969
+  },
+  "matched_test_size": 264,
+  "test_size": 878
+}
